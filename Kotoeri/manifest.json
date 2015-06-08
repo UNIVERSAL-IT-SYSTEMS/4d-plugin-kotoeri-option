@@ -1,0 +1,1 @@
+﻿{"name":"Kotoeri Option","id":20000,"commands":[{"theme":"Kotoeri","syntax":"Kotoeri Get option(&T):T"},{"theme":"Kotoeri","syntax":"Kotoeri SET OPTION(&T;&T;&L)"}]}
