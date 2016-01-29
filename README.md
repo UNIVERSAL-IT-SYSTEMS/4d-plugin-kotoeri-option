@@ -1,6 +1,21 @@
 # 4d-plugin-kotoeri-option
 4D plugin to control the defaults of Japanese IM (a.k.a. Kotoeri) on Mac
 
+##Platform
+
+| carbon | cocoa | win32 | win64 |
+|:------:|:-----:|:---------:|:---------:|
+|🆗|🆗|🚫|🚫|
+
+Commands
+---
+
+```c
+// --- Kotoeri
+Kotoeri_Get_option
+Kotoeri_SET_OPTION
+```
+
 Example
 ---
 
